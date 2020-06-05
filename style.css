@@ -1,0 +1,83 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #344a72;
+	color: #fff;
+	line-height: 1.8;
+}
+
+.container {
+	margin: 30px auto;
+	max-width: 400px;
+	padding: 20px;
+}
+
+form {
+	background: #fff;
+	padding: 15px 25px;
+	color: #333;
+}
+
+form h2 {
+	text-align: center;
+}
+
+.form .formA input {
+	margin-left: 68px;
+    border: 1px solid #ddd;
+    padding: 6px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.form #formC input {
+	margin-left: 10px;
+    border: 1px solid #ddd;
+    padding: 6px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.form p {
+	font-weight: bold;
+}
+
+.form input[type=submit] {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 6px;
+	width: 100%;
+	margin-top: 5px;
+}
+
+.form #formD label {
+	margin-right: 25px;
+}
+
+.form #formE label {
+	margin-right: 10px;
+}
+
+.form #formF label {
+	margin-right: 15px;
+}
+
+.form #formG label {
+	margin-right: 90px;
+}
+
+.form #formH label {
+	margin-right: 77px;
+}
+
+.form #formI label {
+	margin-right: 19px;
+}
+
+.form #formJ label {
+	margin-right: 94px;
+}
